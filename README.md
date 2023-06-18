@@ -1,2 +1,4 @@
-# Practica6-PHP-Nivel3-ED.2023
-Práctica de PHP del Nivel 3 de Samsung Desarrolladoras
+# Practica6-PHP-Samsung-Desarrolladoras
+
+En esta práctica desarrollaremos un formulario en PHP a partir de la BBDD desarrollada en la práctica del módulo anterior.
+
